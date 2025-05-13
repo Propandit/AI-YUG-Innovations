@@ -352,15 +352,15 @@ const App = () => {
           <div className="contact-info">
             <div className="info-item">
               <i className="fas fa-map-marker-alt"></i>
-              <p>123 Innovation Street, Tech City</p>
+              <p>Mathura, Uttar Pradesh</p>
             </div>
             <div className="info-item">
               <i className="fas fa-envelope"></i>
-              <p>contact@aiyug.com</p>
+              <p>aiyuginnovations@gmail.com</p>
             </div>
             <div className="info-item">
               <i className="fas fa-phone"></i>
-              <p>+1 (123) 456-7890</p>
+              <p>+91 74082 29285</p>
             </div>
           </div>
         </div>
@@ -381,13 +381,13 @@ const App = () => {
             <a href="#contact">Contact</a>
           </div>
           <div className="footer-section">
-            <h3>Connect With Us</h3>
-            <div className="social-links">
+            {/* <h3>Connect With Us</h3> */}
+            {/* <div className="social-links">
               <a href="#" className="social-link"><i className="fab fa-linkedin"></i></a>
               <a href="#" className="social-link"><i className="fab fa-github"></i></a>
               <a href="#" className="social-link"><i className="fab fa-twitter"></i></a>
               <a href="#" className="social-link"><i className="fab fa-instagram"></i></a>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="footer-bottom">
